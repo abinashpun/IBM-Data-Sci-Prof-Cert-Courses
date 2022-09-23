@@ -1,2 +1,2 @@
-# IBM Data Science Professional Certificate courses from Coursera
-Ipython notebooks from the courses. 
+# IBM Data Science Professional Certificate courses 
+Ipython notebooks from the courses from Coursera. 
